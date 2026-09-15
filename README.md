@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# I'm Gathan 👋
+
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+Welcome to my GitHub profile!
+Here you'll find all my public repositories with direct links.
+
+## Featured Projects
+
+* [nama-repo-1](https://github.com/username/nama-repo-1) – Description
