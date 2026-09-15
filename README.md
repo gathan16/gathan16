@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Gathan 👋💻>_
+# Hi, I'm Gathan 👋💻>_🛡
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![EndeavourOS](https://img.shields.io/badge/EndeavourOS-7B3F00?style=flat&logo=endeavouros&logoColor=white)
