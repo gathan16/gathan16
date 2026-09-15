@@ -13,13 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# I'm Gathan 👋
+# Hi, I'm Gathan 👋
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![EndeavourOS](https://img.shields.io/badge/EndeavourOS-7B3F00?style=for-the-badge&logo=endeavouros&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 Welcome to my GitHub profile!
 Here you'll find all my public repositories with direct links.
 
 ## Featured Projects
 
-* [nama-repo-1](https://github.com/username/nama-repo-1) – Description
+* [repo-name](https://github.com/username/repo-name-1) – Description
