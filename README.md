@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 Welcome to my GitHub profile!
+
 Here you'll find all my public repositories with direct links.
 
 ## Featured Projects
