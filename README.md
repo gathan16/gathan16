@@ -19,6 +19,8 @@ Welcome to my GitHub profile!
 
 Tools/Technology im currently using/learning
 
+![CI](https://github.com/Devsecops-Filkom-2026/devsecops-245150207111044/actions/workflows/ci.yml/badge.svg)
+![Security](https://github.com/Devsecops-Filkom-2026/devsecops-245150207111044/actions/workflows/security.yml/badge.svg)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![EndeavourOS](https://img.shields.io/badge/EndeavourOS-7B3F00?style=flat&logo=endeavouros&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
